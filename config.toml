@@ -1,4 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "wizardly-swirles-e03d92.netlify.com"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "noteworthy"
+
+[params]
+	email = "mailto:aadithyan.manivannan@gmail.com"
+	linkedin = "https://www.linkedin.com/in/aadhimanivannan/"
+	github = "https://github.com/lyttlerock"
