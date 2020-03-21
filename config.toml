@@ -1,6 +1,6 @@
 baseURL = "https://wizardly-swirles-e03d92.netlify.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Aadhi Manivannan"
 theme = "noteworthy"
 
 [params]
