@@ -1,8 +1,9 @@
 ---
 title: "Hello World"
 slug: "hello-world"
-date: 2020-03-20T19:12:49-04:00
+date: 2020-03-20
 summary: Hi there internet denizen. My name is Aadhi.
+tags: ["general"]
 draft: false
 ---
 
