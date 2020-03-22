@@ -81,7 +81,7 @@ The first two speak to the ongoing strength of the US economy, which is key for 
 
 COVID-19 is an unforseen catastrophe. There's no doubt that the markets needed to correct to incorporate the economic costs associated with its rapid spread. However, I believe there's been an overreaction at this point. My hypothesis is that the widespread quarantines that we're currently subject to will be lifted in 2 - 3 months.
 
-Assuming that holds, then it's important to note that COVID-19 hasn't done anything to materially reduce the productive capacity of the US economy over the long-run. I talk about this specific aspect more in my [COVID-19 post](https://aadhi.rocks/posts/covid-19/).
+Assuming that holds, then it's important to note that COVID-19 hasn't done anything to materially reduce the productive capacity of the US economy over the long-run. I talk about this specific aspect more in my [COVID-19 post](https://www.aadhi.rocks/posts/covid-19/).
 
 Therefore, if we were riding a sustainable bull market pre-COVID - I believe we'll revert to the same post-COVID.
 
