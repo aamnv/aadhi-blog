@@ -7,6 +7,8 @@ slug: "weyerhaeuser-mar-2020"
 draft: false
 ---
 
+*DISCLAIMER: The below references an opinion and is for information purposes only.  It is not intended to be investment advice.  Seek a duly licensed professional for investment advice. I own a long position in WY stock and the below reflects personal opinions that informed my investment decision.*
+
 Weyerhaeuser is a vertically integrated timberlands REIT whose main business is acquiring and maintaining timberlands (forests). They harvest these timberlands regularly and use the raw lumber to make wood products which they then sell to downstream businesses (ex. paper or construction companies). Before we chat indepth about their prospects, let's take a look at the industry as a whole.
 
 # Industry Analysis
@@ -118,4 +120,4 @@ The other obvious risk is the company's balance sheet. They have a high debt loa
 
 My feeling is that COVID-19 will pass in a few months. The situation thus far and going forward will no doubt have a major effect on the financials of Weyerhaeuser in 2020. However, the intrinsic value of a company is often dependent on the cash flows going forward in perpetuity - captured in the terminal value. Even if the cash flows for 2020 are low / negative - if we avoid a long-term recession, then the stock should start paying significant dividends in 2021 and onwards.
 
-I'm comfortable taking that bet. But that doesn't mean you should be or that you will.
+I'm comfortable taking that bet. But that doesn't mean you should be or that you will. As always - do your own research.

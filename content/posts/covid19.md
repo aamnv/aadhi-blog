@@ -37,5 +37,5 @@ Although that sounds good on paper, all of this is at risk if the expectation of
 
 It doesn't help that every other day I read some article talking about the exchange circuit breakers being triggered, or how [small businesses are going to die](https://docs.google.com/presentation/d/1IUTHX2kTagUUV88HUJCkp_P6iZgLCXXVHD9UeOwU_1w/mobilepresent?slide=id.g71b0a47020_30_486), and so on. Although these are real worries to have, most are short-term pains. Assuming nothing changes in the expectations of Americans for the future over these next two months, things should return to normal and perhaps even a bit better.
 
-But that's a big assumption. I'm comfortable making it, but are you?
+But that's a big assumption.
 
