@@ -1,5 +1,5 @@
 ---
-title: "Stock Research: Weyerhaeuser (WY)"
+title: "Stock Thesis: Weyerhaeuser (WY)"
 date: 2020-03-22
 summary: Social distancing in the timberlands.
 tags: ["investing"]
@@ -7,7 +7,7 @@ slug: "weyerhaeuser-mar-2020"
 draft: false
 ---
 
-*DISCLAIMER: The below references an opinion and is for information purposes only.  It is not intended to be investment advice.  Seek a duly licensed professional for investment advice. I own a long position in WY stock and the below reflects personal opinions that informed my investment decision.*
+*DISCLAIMER: The below references an opinion and is for information purposes only. It is not intended to be investment advice.  Seek a duly licensed professional for investment advice. I own a long position in WY stock and the below reflects personal opinions that informed my investment decision.*
 
 Weyerhaeuser is a vertically integrated timberlands REIT whose main business is acquiring and maintaining timberlands (forests). They harvest these timberlands regularly and use the raw lumber to make wood products which they then sell to downstream businesses (ex. paper or construction companies). Before we chat indepth about their prospects, let's take a look at the industry as a whole.
 
