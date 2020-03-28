@@ -73,7 +73,7 @@ I wanted to talk about this one last, since it's a bit dependent on the other tw
 
 The second complicating factor is a failure to shift to e-commerce. Depending on how quickly consumers move online for home appliance purchases - this could be a big or small risk in the context of debt default. I believe this will end up being a smaller risk, since Whirlpool's brand is strong.
 
-Finally, there's just straight out debt default as a result of the COVID shock. I think this is unlikely because of the Fed's assurance to help investment grade companies [refinance their debt if needed](https://www.rollcall.com/2020/03/25/stimulus-bill-gives-fed-direct-loan-funds-with-few-strings/). Whirlpool's [Baa1 rating](https://www.moodys.com/credit-ratings/Whirlpool-Corporation-credit-rating-825000) covers them here.
+Finally, there's just straight out debt default as a result of the COVID shock. I think this is unlikely because of the Fed's assurance to help investment grade companies [refinance their debt if needed](https://www.rollcall.com/2020/03/25/stimulus-bill-gives-fed-direct-loan-funds-with-few-strings/). Whirlpool's [Baa1 rating](https://www.moodys.com/credit-ratings/Whirlpool-Corporation-credit-rating-825000) covers them here. If the worst comes to pass - Whirlpool also has roughly $2B in cash on their balance sheet that should be able to cushion them for a year or two.
 
 # Concluding Words
 
