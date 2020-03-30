@@ -2,9 +2,9 @@ baseURL = "https://www.aadhi.rocks"
 languageCode = "en-us"
 title = "Aadhi Manivannan"
 theme = "noteworthy"
+googleAnalytics = "UA-90683050-2"
 
 [params]
 	email = "mailto:aadithyan.manivannan@gmail.com/"
 	linkedin = "https://www.linkedin.com/in/aadhimanivannan/"
 	github = "https://github.com/lyttlerock/"
-	googleAnalytics = "UA-90683050-2" 
