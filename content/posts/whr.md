@@ -1,6 +1,6 @@
 ---
 title: "Stock Thesis: Whirlpool (WHR)"
-date: 2020-03-27T10:44:32-04:00
+date: 2020-03-27
 summary: Who's going to stop doing laundry?
 tags: ["investing"]
 slug: "whirlpool-mar-2020"
