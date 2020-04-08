@@ -1,6 +1,6 @@
 ---
 title: "Stock Thesis: Materion (MTRN)"
-date: 2020-03-30
+date: 2020-04-07
 summary: Government monopolies are cool.
 tags: ["investing"]
 slug: "materion-mar-2020"
