@@ -7,7 +7,7 @@ slug: "my-investing-strategy"
 draft: false
 ---
 
-I've run into a bit of a lull in my active investing. The market's in a weird place right now. I'm worried that my prediction on the impact of COVID is probably not going to come to pass. Even though some notable oracles agree with my general thinking, I'm starting to second guess myself. Anyhoo - that's fodder for a future post. Today I'd like to talk at a higher level about what I screen for when trying to find companies.
+I've run into a bit of a lull in my active investing. The market's in a weird place right now. I'm worried that my prediction on the impact of COVID is probably not going to come to pass. Even though [some notable oracles](https://www.cnbc.com/2020/05/02/warren-buffett-says-the-economy-will-overcome-coronavirus-nothing-can-basically-stop-america.html) agree with my general thinking, I'm starting to second guess myself. Anyhoo - that's fodder for a future post. Today I'd like to talk at a higher level about what I screen for when trying to find companies.
 
 To lay it out bluntly, I look for the following:
 
