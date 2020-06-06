@@ -1,7 +1,7 @@
 baseURL = "https://www.aadhi.rocks"
 languageCode = "en-us"
 title = "Aadhi Manivannan"
-theme = "noteworthy"
+theme = "noteworthy-aadhi"
 googleAnalytics = "UA-90683050-2"
 
 [params]
