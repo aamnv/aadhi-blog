@@ -35,7 +35,7 @@ Using this lens, here's how the costs break out for a sale:
 - Payment Processing Fee (2) (3% of list price)
 - Offsite Ads Fee* (15% or 12% of list price)
 
-*This fee only applies if your shop generates $10K+ in sales over 365 rolling days (12% fee) OR you aren't opted out of the program (15% fee)
+*This fee only applies if your shop has ever generated $10K+ in sales over 365 rolling days (12% fee), at which point you'll be signed up for the lifetime of your store **OR** you've never hit the $10K in sales threshold and aren't opted out of the program (15% fee)
 
 Note that the payment processing fee has two components - one that's fixed  ($0.25 / sale) and one that's variable (3% of list price).
 
