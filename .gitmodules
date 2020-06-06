@@ -1,3 +1,9 @@
 [submodule "themes/noteworthy"]
 	path = themes/noteworthy
 	url = https://github.com/kimcc/hugo-theme-noteworthy.git
+[submodule "themes/hugo-theme-noteworthy"]
+	path = themes/hugo-theme-noteworthy
+	url = https://github.com/lyttlerock/hugo-theme-noteworthy.git
+[submodule "themes/noteworthy-aadhi"]
+	path = themes/noteworthy-aadhi
+	url = https://github.com/lyttlerock/hugo-theme-noteworthy.git
