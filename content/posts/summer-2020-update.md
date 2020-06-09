@@ -1,6 +1,6 @@
 ---
 title: "Summer 2020 Update"
-date: 2020-05-10T15:25:29-04:00
+date: 2020-05-10
 summary: Life gets busy.
 tags: ["general"]
 slug: "summer-2020-update"

@@ -1,6 +1,6 @@
 ---
 title: "Analyzing Etsy Fees (2020)"
-date: 2020-06-02T14:20:32-04:00
+date: 2020-06-05
 summary: Nickles and dimes.
 tags: ["etsy"]
 slug: "etsy-fees-2020"
