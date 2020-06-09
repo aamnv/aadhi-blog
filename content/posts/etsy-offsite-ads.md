@@ -72,11 +72,11 @@ This is a super simplified formula that would vary depending on how similar / di
 
 Now the above ignores fees that would be applied to price increase for simplicity. However, if you wanted to include that in your calculation as well - then you can use this formula:
 
-$ Price Increase / (1 - 0.23*) =  TX / PMT Fee Adjusted $ Price Increase
+$ Price Increase / (1 - (0.08 + % Offsite Ads * 0.15)*) =  Adjusted $ Price Increase
 
-*The 0.23 or 23% is the sum of all Etsy platform fees that are tied to an offsite ad sale (TX Fee = 5%, Pmt Processing Fee = 3%, and Offsite Ads Fee = 15%), more details in my [Etsy fees post](https://www.aadhi.rocks/posts/etsy-fees-2020)
+*This expression is the sum of all Etsy platform fees that are tied to an offsite ad sale (TX Fee = 5%, Pmt Processing Fee = 3%, and Offsite Ads Fee = 15%) and incorporates the mix of offsite ad sales vs. regular sales into the offsite ads fee; more details on the fees in my [Etsy fees post](https://www.aadhi.rocks/posts/etsy-fees-2020)
 
-**This adjusted method yielded a recommended price increase of 2.7%**.
+**This adjusted method yielded a recommended price increase of 2.3%**.
 
 ## Sensitivity Analysis
 
@@ -86,16 +86,16 @@ So to cover my bases, I did some sensitivity analysis to figure out what would h
 
 | % Offsite Ad Sales | % Price Increase (12% Fee) | % Price Increase (15% Fee) |
 |:------------------:|:--------------------------:|:--------------------------:|
-|         5%         |            0.8%            |            1.0%            |
-|         10%        |            1.6%            |            2.0%            |
-|         15%        |            2.3%            |            2.9%            |
-|         20%        |            3.1%            |            3.9%            |
-|         25%        |            3.9%            |            4.9%            |
-|         30%        |            4.7%            |            5.9%            |
-|         35%        |            5.5%            |            6.8%            |
-|         40%        |            6.2%            |            7.8%            |
-|         45%        |            7.0%            |            8.8%            |
-|         50%        |            7.8%            |            9.8%            |
+|         5%         |            0.7%            |            0.8%            |
+|         10%        |            1.3%            |            1.7%            |
+|         15%        |            2.0%            |            2.5%            |
+|         20%        |            2.7%            |            3.4%            |
+|         25%        |            3.4%            |            4.3%            |
+|         30%        |            4.1%            |            5.1%            |
+|         35%        |            4.8%            |            6.1%            |
+|         40%        |            5.6%            |            7.0%            |
+|         45%        |            6.3%            |            7.9%            |
+|         50%        |            7.1%            |            8.9%            |
 
 ---
 
