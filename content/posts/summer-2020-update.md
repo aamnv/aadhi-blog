@@ -2,7 +2,7 @@
 title: "Summer 2020 Update"
 date: 2020-05-10
 summary: Life gets busy.
-tags: ["general"]
+tags: ["general", "miniprinter"]
 slug: "summer-2020-update"
 draft: false
 ---
@@ -15,6 +15,8 @@ As I pondered that goal more, I realized that giving up my summer to work a virt
 
 My course of action became clear after coming to that realization. Make the tough - but necessary - decision to forgo my internship in lieu of working on my own idea(s) this summer. To make sure I'm not just burning cash, I also made the decision to move back to North Carolina with my parents. All of these decisions and changes have roiled my life over the past few weeks and made it almost impossible to find the time or mental bandwidth to consider blogging.
 
-But I'm done with all that now. I'm settled in North Carolina and starting the process of validating some of the business ideas I've been tossing around for a while now. With that, I hope that I'll start posting more as well. 
+But I'm done with all that now. I'm settled in North Carolina and starting the process of validating some of the business ideas I've been tossing around for a while now. The first of which is a side hustle I'd already been running while working on my MBA at Tuck: [MiniPrinter](https://www.etsy.com/shop/miniprinter).
 
-Off to a good start I guess!
+MiniPrinter is an eCommerce company that sells 3D printed miniatures for [Dungeons and Dragons (D&D)](https://dnd.wizards.com/dungeons-and-dragons/what-is-dd). For those who aren't familiar with the game, think: board game pieces. I started this company Jan 2020 and going into the summer, MiniPrinter is doing $220 on a monthly basis. I'm going to be spending my summer trying to move MiniPrinter forward to a singular goal: $1,000 / month in revenue.
+
+Along the way I plan to post updates, thoughts, and learnings as I continue down this journey. So here's to hoping for more regular posts!

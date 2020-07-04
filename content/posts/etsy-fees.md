@@ -2,7 +2,7 @@
 title: "Analyzing Etsy Fees (2020)"
 date: 2020-06-05
 summary: Nickles and dimes.
-tags: ["etsy"]
+tags: ["etsy", "miniprinter"]
 slug: "etsy-fees-2020"
 draft: false
 ---

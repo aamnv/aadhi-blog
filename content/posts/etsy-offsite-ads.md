@@ -2,7 +2,7 @@
 title: "Should You Opt Into Etsy Offsite Ads?"
 date: 2020-06-08
 summary: A tale of two metrics.
-tags: ["etsy"]
+tags: ["etsy", "miniprinter"]
 slug: "opt-into-etsy-offsite-ads"
 draft: false
 ---
