@@ -1,7 +1,7 @@
 ---
-title: "Summer 2020 Update"
+title: "Summer 2020"
 date: 2020-05-10
-summary: Life gets busy.
+summary: Life gets busy. I start something.
 tags: ["general", "miniprinter"]
 slug: "summer-2020-update"
 draft: false
