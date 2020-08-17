@@ -7,7 +7,7 @@ slug: "miniprinter-may-2020-update"
 draft: false
 ---
 
-And just like that - it's time for the first monthly update. As I mentioned in my [Summer 2020](https://www.aadhi.rocks/posts/summer-2020-update/) post, I'm working on a [D&D miniatures business](https://www.etsy.com/shop/miniprinter) during my summer off from my MBA. As a way to document the process and also crystallize learnings I pick up along the way, I'm going to plan on making monthly updates on progress towards my main goal: $1,000 in a month.
+And just like that - it's time for the first monthly update. As I mentioned in my [Summer 2020](https://www.aadhi.rocks/posts/summer-2020-update/) post, I'm working on a [D&D miniatures business](https://www.etsy.com/shop/miniprinter) during my summer off from my MBA. As a way to document the process and also crystallize learnings I pick up along the way, I'm planning on writing monthly updates on progress towards my goal: $1,000 revenue in a month.
 
 So let's get on with the update!
 
@@ -33,9 +33,9 @@ Finally, I launched a few more models (~5). Notable launch: a [goblin set](https
 
 ![MayRev](/may-update/may-rev.png)
 
-After a flat revenue month from March to April, I clocked in a 34% month over month revenue growth for May. I believe some of the March to April flatness might have been COVID-related, but at such a small scale - there was never a real excuse for me to not keep growing.
+After flat revenue growth from March to April, I clocked in a 37% month over month revenue growth rate for May. I believe some of the March to April flatness might have been COVID-related, but at such a small scale - there was never a real excuse for me to not keep growing.
 
-So I'm happy that the business saw a slight upswing over the course of the month. I believe some that growth definitely be attributed to SEO optimization from Marmalead.
+So I'm happy that the business saw a slight upswing over the course of the month. I believe some of that growth would definitely be attributed to SEO optimization thanks to Marmalead.
 
 **Avg Order Value**
 
@@ -74,6 +74,6 @@ Unfortunately, right now the process involves:
 - Photo shoot (0.5 hours)
 - Launch listing (0.5 hours)
 
-Some of this can be batched, but it's not ideal to have to print every model I want to launch. After all, I don't know what the winners are going to be!
+Some of this can be batched, but it's not ideal to have to print every model I want to launch. After all, I don't know which models are going to be the 'winners'.
 
-I have noticed that other Etsy shops use 3D renders as photos for their listings. They look quite nice and true to life and would be a clear solution to this problem. The question is simply - how are they doing it? I'll have to do some research on this and come up with a solution in June to really unlock some growth.
+I have noticed that other Etsy shops use 3D renders as photos for their listings. They look quite nice and true to life and would be a clear solution to this problem. The question is - how are they doing it? I'll have to do some research on this and come up with a solution in June to really unlock some growth.
