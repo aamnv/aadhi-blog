@@ -33,7 +33,7 @@ Sounds great! It'd free up considerable amounts of my time and allow me to quick
 
 Of course this all assumes customers wouldn't mind - so I decided to run another A/B test. The same one I had you take at the beginning of this post.
 
-The rest of the setup is quite similar to my [previous experiment on pricing]():
+The rest of the setup is quite similar to my [previous experiment on pricing](https://www.aadhi.rocks/posts/a-b-testing-etsy-pricing-jun-2020):
 
 - Swap between picture A & B every 30 minutes
 - Note the 'views' at each interval

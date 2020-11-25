@@ -7,6 +7,8 @@ slug: "open-portfolio"
 draft: false
 ---
 
+**NOTE**: This portfolio is now out of date. I've sold the positions and exited the market for now due to constraints on my time.
+
 Michael Burry (of The Big Short fame) recently started posting on Twitter. He started off strong by sharing his view on the COVID-19 lockdowns:
 
 > If COVID-19 testing were universal, the fatality rate would be less than 0.2%. This is no justification for sweeping government policies, lacking any and all nuance, that destroy the lives, jobs, and businesses of the other 99.8%.
