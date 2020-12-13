@@ -70,7 +70,7 @@ Initially I was going to implement some detection to check when my character's i
 
 # Outcomes
 
-The outcome was pretty good. I've built a bot that clocks in ~15K experience per hour while mining iron ore. Benchmark for absolute highest experience rate here would be something in the 20K - 25K range. The 'cloaking' features also make me think that it'd stand the test of time (i.e. not get banned) if I ran it on the main OSRS servers.
+The outcome was pretty good. I've built a bot that clocks in ~21K experience per hour while mining iron ore. Benchmark for absolute highest experience rate here would be something in the 50K range. The 'cloaking' features also make me think that it'd stand the test of time (i.e. not get banned) if I ran it on the main OSRS servers.
 
 Moreover, this is the first time I've ever played around with computer vision and I'm absolutely blown away by how painless it was. Open source technology has done wonders for the space and made it so simple that even a newbie like me can build valuable models from scratch.
 
